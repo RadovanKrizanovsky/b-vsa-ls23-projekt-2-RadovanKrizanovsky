@@ -1,6 +1,10 @@
 
 
-Entire assignment is repost from my other profile
+<table align="center">
+  <tr>
+    <th>Entire assignment is repost from my other profile</th>
+  </tr>
+</table>
 
 
 # B-VSA LS 22/23 - Semestrálny projekt 2
