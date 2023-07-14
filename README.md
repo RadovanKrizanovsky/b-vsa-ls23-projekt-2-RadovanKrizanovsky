@@ -1,6 +1,6 @@
 
 
-Entire code is repost from my other profile
+Entire assignment is repost from my other profile
 
 
 # B-VSA LS 22/23 - Semestrálny projekt 2
